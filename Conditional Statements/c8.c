@@ -1,0 +1,1 @@
+//Write a C program to calculate the root of a quadratic equation
